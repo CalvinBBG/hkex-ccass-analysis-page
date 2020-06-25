@@ -5,5 +5,5 @@
 
 ```sh
 npm install
-npm run develop 
+npm run develop  
 ```
